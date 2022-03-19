@@ -1,3 +1,12 @@
+---
+stylesheet:
+  - ./apps/core/src/assets/agreement.css
+pdf_options:
+  format: A4
+  margin: 30mm 20mm
+  displayHeaderFooter: false
+---
+
 # SFC LT 2022 奨学金の応募にあたっての同意事項
 SFC LT 2022 奨学金に応募いただく場合、応募者は下記の条項すべてに同意したものとします。
 
